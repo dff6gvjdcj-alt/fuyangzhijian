@@ -167,17 +167,17 @@ const EXHIBITION_DATA = {
                   name: '看见·向上的力量',
                   description: '看见平凡，看见感动，看见价值观在光影中生长。校园里伸手相助的温暖、运动场上拼尽全力的奔跑、非遗课堂上专注的侧脸；走出校门，妈妈接我回家的目光、建筑工人挥汗如雨的身影、路口交警风雨无阻的坚守——这些平凡瞬间闪烁着真实的光亮。',
                   works: [
-                    { id: 'SW-PH001', title: '对话', author: '高仕诚', year: '2026', desc: '', image: 'images/photo/3.jpg' },
-                    { id: 'SW-PH002', title: '驰骋', author: '黄钰', year: '2026', desc: '', image: 'images/photo/4.jpg' },
-                    { id: 'SW-PH003', title: '与你同行', author: '汪敏姝', year: '2026', desc: '', image: 'images/photo/7.jpg' },
-                    { id: 'SW-PH004', title: '传承的力量', author: '金永汉', year: '2026', desc: '', image: 'images/photo/8.jpg' },
-                    { id: 'SW-PH005', title: '青春', author: '陈美锡', year: '2026', desc: '', image: 'images/photo/9.jpg' },
-                    { id: 'SW-PH006', title: '篮球梦', author: '刘亚洲', year: '2026', desc: '', image: 'images/photo/10.jpg' },
-                    { id: 'SW-PH007', title: '起飞', author: '祖天佑', year: '2026', desc: '', image: 'images/photo/56.jpg' },
-                    { id: 'SW-PH008', title: '晨光', author: '汪杰瑞', year: '2026', desc: '', image: 'images/photo/12.jpg' },
-                    { id: 'SW-PH009', title: '心灵休憩站', author: '佘逸珺', year: '2026', desc: '', image: 'images/photo/33.jpg' },
-                    { id: 'SW-PH010', title: '专注', author: '陈羽晨', year: '2026', desc: '', image: 'images/photo/11.jpg' },
-                    { id: 'SW-PH011', title: '冲刺', author: '梅宇轩', year: '2026', desc: '', image: 'images/photo/48.jpg' }
+                    { id: 'SW-PH001', title: '对话', author: '高仕诚', year: '2026', desc: '', image: '3.jpg' },
+                    { id: 'SW-PH002', title: '驰骋', author: '黄钰', year: '2026', desc: '', image: '4.jpg' },
+                    { id: 'SW-PH003', title: '与你同行', author: '汪敏姝', year: '2026', desc: '', image: '7.jpg' },
+                    { id: 'SW-PH004', title: '传承的力量', author: '金永汉', year: '2026', desc: '', image: '8.jpg' },
+                    { id: 'SW-PH005', title: '青春', author: '陈美锡', year: '2026', desc: '', image: '9.jpg' },
+                    { id: 'SW-PH006', title: '篮球梦', author: '刘亚洲', year: '2026', desc: '', image: '10.jpg' },
+                    { id: 'SW-PH007', title: '起飞', author: '祖天佑', year: '2026', desc: '', image: '56.jpg' },
+                    { id: 'SW-PH008', title: '晨光', author: '汪杰瑞', year: '2026', desc: '', image: '12.jpg' },
+                    { id: 'SW-PH009', title: '心灵休憩站', author: '佘逸珺', year: '2026', desc: '', image: '33.jpg' },
+                    { id: 'SW-PH010', title: '专注', author: '陈羽晨', year: '2026', desc: '', image: '11.jpg' },
+                    { id: 'SW-PH011', title: '冲刺', author: '梅宇轩', year: '2026', desc: '', image: '48.jpg' }
                   ]
                 },
                 {
@@ -185,22 +185,22 @@ const EXHIBITION_DATA = {
                   name: '遇见·光阴的诗行',
                   description: '在日常中遇见诗意，让光影成为另一种语言。枝头初绽的花苞、秋天飘落的树叶、雨后初晴的水洼、季节更迭中悄然变化的色彩——诗意并不遥远，它就藏在这些日常画面里。我们尝试用镜头与古诗对话，按下快门的那一刻，觉得自己读懂了他们。',
                   works: [
-                    { id: 'SW-PH012', title: '春日影', author: '杨斯语', year: '2026', desc: '', image: 'images/photo/19.jpg' },
-                    { id: 'SW-PH013', title: '跃上枝头', author: '梅宇轩', year: '2026', desc: '', image: 'images/photo/27.jpg' },
-                    { id: 'SW-PH014', title: '洁', author: '李若溪', year: '2026', desc: '', image: 'images/photo/65.jpg' },
-                    { id: 'SW-PH015', title: '清莲', author: '李若溪', year: '2026', desc: '', image: 'images/photo/67.jpg' },
-                    { id: 'SW-PH016', title: '一荷盛夏', author: '李若溪', year: '2026', desc: '', image: 'images/photo/69.jpg' },
-                    { id: 'SW-PH017', title: '翠拥荷韵', author: '周珠怡', year: '2026', desc: '', image: 'images/photo/38.jpg' },
-                    { id: 'SW-PH018', title: '逆光', author: '毛可欣', year: '2026', desc: '', image: 'images/photo/66.jpg' },
-                    { id: 'SW-PH019', title: '玉盘珍珠', author: '张跃轩', year: '2026', desc: '', image: 'images/photo/55.jpg' },
-                    { id: 'SW-PH020', title: '花之舞', author: '高仕诚', year: '2026', desc: '', image: 'images/photo/13.jpg' },
-                    { id: 'SW-PH021', title: '电流原野', author: '史谦予', year: '2026', desc: '', image: 'images/photo/40.jpg' },
-                    { id: 'SW-PH022', title: '生长的力量', author: '徐子祺', year: '2026', desc: '', image: 'images/photo/43.jpg' },
-                    { id: 'SW-PH023', title: '翠叶斑蝶', author: '张一驰', year: '2026', desc: '', image: 'images/photo/16.jpg' },
-                    { id: 'SW-PH024', title: '依偎', author: '史谦予', year: '2026', desc: '', image: 'images/photo/15.jpg' },
-                    { id: 'SW-PH025', title: '枝', author: '王奕涵', year: '2026', desc: '', image: 'images/photo/21.jpg' },
-                    { id: 'SW-PH026', title: '花语', author: '席心怡', year: '2026', desc: '', image: 'images/photo/24.jpg' },
-                    { id: 'SW-PH027', title: '春意', author: '席欣怡', year: '2026', desc: '', image: 'images/photo/49.jpg' }
+                    { id: 'SW-PH012', title: '春日影', author: '杨斯语', year: '2026', desc: '', image: '19.jpg' },
+                    { id: 'SW-PH013', title: '跃上枝头', author: '梅宇轩', year: '2026', desc: '', image: '27.jpg' },
+                    { id: 'SW-PH014', title: '洁', author: '李若溪', year: '2026', desc: '', image: '65.jpg' },
+                    { id: 'SW-PH015', title: '清莲', author: '李若溪', year: '2026', desc: '', image: '67.jpg' },
+                    { id: 'SW-PH016', title: '一荷盛夏', author: '李若溪', year: '2026', desc: '', image: '69.jpg' },
+                    { id: 'SW-PH017', title: '翠拥荷韵', author: '周珠怡', year: '2026', desc: '', image: '38.jpg' },
+                    { id: 'SW-PH018', title: '逆光', author: '毛可欣', year: '2026', desc: '', image: '66.jpg' },
+                    { id: 'SW-PH019', title: '玉盘珍珠', author: '张跃轩', year: '2026', desc: '', image: '55.jpg' },
+                    { id: 'SW-PH020', title: '花之舞', author: '高仕诚', year: '2026', desc: '', image: '13.jpg' },
+                    { id: 'SW-PH021', title: '电流原野', author: '史谦予', year: '2026', desc: '', image: '40.jpg' },
+                    { id: 'SW-PH022', title: '生长的力量', author: '徐子祺', year: '2026', desc: '', image: '43.jpg' },
+                    { id: 'SW-PH023', title: '翠叶斑蝶', author: '张一驰', year: '2026', desc: '', image: '16.jpg' },
+                    { id: 'SW-PH024', title: '依偎', author: '史谦予', year: '2026', desc: '', image: '15.jpg' },
+                    { id: 'SW-PH025', title: '枝', author: '王奕涵', year: '2026', desc: '', image: '21.jpg' },
+                    { id: 'SW-PH026', title: '花语', author: '席心怡', year: '2026', desc: '', image: '24.jpg' },
+                    { id: 'SW-PH027', title: '春意', author: '席欣怡', year: '2026', desc: '', image: '49.jpg' }
                   ]
                 },
                 {
@@ -208,16 +208,16 @@ const EXHIBITION_DATA = {
                   name: '听见·山河的回声',
                   description: '走出校园，世界变得更加辽阔。从一棵树的四季轮转，看到时间的形状；从自然的山脉与河流，读懂天地的尺度。清晨草叶上的露珠、黄昏漫天的晚霞，都被装进取景框里。这个过程让我们学会等待与敬畏——这些作品，既是记录，也是与天地对话的方式。',
                   works: [
-                    { id: 'SW-PH028', title: '森林之夜', author: '梅宇轩', year: '2026', desc: '', image: 'images/photo/1.jpg' },
-                    { id: 'SW-PH029', title: '银河', author: '阚彦彬', year: '2026', desc: '', image: 'images/photo/62.jpg' },
-                    { id: 'SW-PH030', title: '暮色织梦，银翼为针', author: '史谦予', year: '2026', desc: '', image: 'images/photo/42.jpg' },
-                    { id: 'SW-PH031', title: '树影婆娑', author: '巫怡青', year: '2026', desc: '', image: 'images/photo/60.jpg' },
-                    { id: 'SW-PH032', title: '童年碧影', author: '杨斯语', year: '2026', desc: '', image: 'images/photo/51.jpg' },
-                    { id: 'SW-PH033', title: '麦穗', author: '巫怡青', year: '2026', desc: '', image: 'images/photo/18.jpg' },
-                    { id: 'SW-PH034', title: '望', author: '李若溪', year: '2026', desc: '', image: 'images/photo/39.jpg' },
-                    { id: 'SW-PH035', title: '落日', author: '巫怡青', year: '2026', desc: '', image: 'images/photo/47.jpg' },
-                    { id: 'SW-PH036', title: '落日余辉', author: '汪杰瑞', year: '2026', desc: '', image: 'images/photo/71.jpg' },
-                    { id: 'SW-PH037', title: '斗转星移', author: '梅宇轩', year: '2026', desc: '', image: 'images/photo/26.jpg' }
+                    { id: 'SW-PH028', title: '森林之夜', author: '梅宇轩', year: '2026', desc: '', image: '1.jpg' },
+                    { id: 'SW-PH029', title: '银河', author: '阚彦彬', year: '2026', desc: '', image: '62.jpg' },
+                    { id: 'SW-PH030', title: '暮色织梦，银翼为针', author: '史谦予', year: '2026', desc: '', image: '42.jpg' },
+                    { id: 'SW-PH031', title: '树影婆娑', author: '巫怡青', year: '2026', desc: '', image: '60.jpg' },
+                    { id: 'SW-PH032', title: '童年碧影', author: '杨斯语', year: '2026', desc: '', image: '51.jpg' },
+                    { id: 'SW-PH033', title: '麦穗', author: '巫怡青', year: '2026', desc: '', image: '18.jpg' },
+                    { id: 'SW-PH034', title: '望', author: '李若溪', year: '2026', desc: '', image: '39.jpg' },
+                    { id: 'SW-PH035', title: '落日', author: '巫怡青', year: '2026', desc: '', image: '47.jpg' },
+                    { id: 'SW-PH036', title: '落日余辉', author: '汪杰瑞', year: '2026', desc: '', image: '71.jpg' },
+                    { id: 'SW-PH037', title: '斗转星移', author: '梅宇轩', year: '2026', desc: '', image: '26.jpg' }
                   ]
                 },
                 {
@@ -225,17 +225,17 @@ const EXHIBITION_DATA = {
                   name: '触摸·人间的烟火',
                   description: '走入街巷与人群，触摸生活的温度，也感受人间的呼吸。寻常巷陌的祖孙背影、草地上迎风起飞的风筝、老街深处斑驳的旧影、江面上缓缓划过的渔舟、舞台下舒展投入的舞姿——我们用镜头定格那些真实而生动的瞬间。',
                   works: [
-                    { id: 'SW-PH038', title: '眸', author: '杨斯语', year: '2026', desc: '', image: 'images/photo/5.jpg' },
-                    { id: 'SW-PH039', title: '雨夜', author: '杨斯语', year: '2026', desc: '', image: 'images/photo/6.jpg' },
-                    { id: 'SW-PH040', title: '童年', author: '陈易坤', year: '2026', desc: '', image: 'images/photo/30.jpg' },
-                    { id: 'SW-PH041', title: '雨夜', author: '张跃轩', year: '2026', desc: '', image: 'images/photo/54.jpg' },
-                    { id: 'SW-PH042', title: '祖孙俩', author: '杨斯语', year: '2026', desc: '', image: 'images/photo/52.jpg' },
-                    { id: 'SW-PH043', title: '回眸', author: '邓志安', year: '2026', desc: '', image: 'images/photo/20.jpg' },
-                    { id: 'SW-PH044', title: '等待', author: '沈厚宇', year: '2026', desc: '', image: 'images/photo/22.jpg' },
-                    { id: 'SW-PH045', title: '城市', author: '解毅修', year: '2026', desc: '', image: 'images/photo/29.jpg' },
-                    { id: 'SW-PH046', title: '蓝天翼影', author: '石宇轩', year: '2026', desc: '', image: 'images/photo/31.jpg' },
-                    { id: 'SW-PH047', title: '守岁月', author: '杨斯语', year: '2026', desc: '', image: 'images/photo/50.jpg' },
-                    { id: 'SW-PH048', title: '彩色的梦', author: '徐若涵', year: '2026', desc: '', image: 'images/photo/36.jpg' }
+                    { id: 'SW-PH038', title: '眸', author: '杨斯语', year: '2026', desc: '', image: '5.jpg' },
+                    { id: 'SW-PH039', title: '雨夜', author: '杨斯语', year: '2026', desc: '', image: '6.jpg' },
+                    { id: 'SW-PH040', title: '童年', author: '陈易坤', year: '2026', desc: '', image: '30.jpg' },
+                    { id: 'SW-PH041', title: '雨夜', author: '张跃轩', year: '2026', desc: '', image: '54.jpg' },
+                    { id: 'SW-PH042', title: '祖孙俩', author: '杨斯语', year: '2026', desc: '', image: '52.jpg' },
+                    { id: 'SW-PH043', title: '回眸', author: '邓志安', year: '2026', desc: '', image: '20.jpg' },
+                    { id: 'SW-PH044', title: '等待', author: '沈厚宇', year: '2026', desc: '', image: '22.jpg' },
+                    { id: 'SW-PH045', title: '城市', author: '解毅修', year: '2026', desc: '', image: '29.jpg' },
+                    { id: 'SW-PH046', title: '蓝天翼影', author: '石宇轩', year: '2026', desc: '', image: '31.jpg' },
+                    { id: 'SW-PH047', title: '守岁月', author: '杨斯语', year: '2026', desc: '', image: '50.jpg' },
+                    { id: 'SW-PH048', title: '彩色的梦', author: '徐若涵', year: '2026', desc: '', image: '36.jpg' }
                   ]
                 }
               ]
