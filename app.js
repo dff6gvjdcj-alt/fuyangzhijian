@@ -472,7 +472,6 @@ const App = (function () {
           <div class="work-info-panel">
             <h1 class="work-info-title">${work.title}</h1>
             <div class="work-info-author">${work.author}</div>
-            <div class="work-info-year">${work.year} · ${work.id}</div>
             <div class="work-info-divider"></div>
             <div class="work-info-desc-label">创 作 说 明</div>
             <p class="work-info-desc">${work.desc}</p>
